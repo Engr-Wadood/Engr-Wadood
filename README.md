@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Wadood Khan! 👋  
 ### Embedded Systems Enthusiast | Production Engineer | Electronics Innovator  
 
 Welcome to my GitHub profile! I am a motivated professional with expertise in:  
