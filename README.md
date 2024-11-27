@@ -21,7 +21,7 @@ Feel free to explore my repositories showcasing my projects and contributions.
 
 ### 🔧 Skills & Technologies  
 - **Programming:** C, C++, Python, MATLAB, Arduino IDE, Ladder Logic  
-- **Hardware Platforms:** Arduino, STM32, Siemens PLC, FPGA  
+- **Hardware Platforms:** Arduino, Siemens PLC, FPGA  
 - **Tools:** Vivado Xilinx, Proteus, Keil, Dialux  
 - **IoT:** NodeMCU, MQTT, ThingSpeak  
 - **Industrial Automation:** HMI, Functional Block Diagrams, Automation Design  
